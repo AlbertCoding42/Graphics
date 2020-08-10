@@ -1,0 +1,2 @@
+# Graphics
+Any graphical projects.
