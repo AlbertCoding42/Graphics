@@ -23,10 +23,4 @@ def stars(turtle, size):
 
 
 stars(bob, 300)
-
-
-
-
-
-
 turtle.done()
